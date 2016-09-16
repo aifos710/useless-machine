@@ -1,0 +1,43 @@
+body{
+	text-align: center;
+}
+
+div{
+	height:200px ;
+	width:200px ;
+	display: inline-block;
+	margin-left: 20px;
+	margin-bottom: 20px;
+}
+
+input{
+	margin-bottom: 20px;
+}
+
+button{
+	margin-bottom: 20px;
+	height:30px ;
+	width:100px ;
+}
+
+.circle {
+	border-radius: 50%;
+}
+
+#blue{
+	background-color:blue;
+}
+	
+#red{
+	background-color:red;
+}
+
+#yellow{
+	background-color:yellow;
+}
+
+.border{
+	border: 5px solid black;
+
+}
+
